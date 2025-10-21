@@ -6,8 +6,8 @@ Building useful software with clarity and purpose
 ---
 
 ## 🚀 About Me  
-I'm a Full Stack Developer focused on creating scalable, clean, and efficient solutions.  
-I enjoy building both frontend and backend systems, working with databases, and continuously improving my skills through practical projects.
+I'm a Full Stack Developer passionate about creating scalable, clean, and efficient solutions.  
+I love building both frontend and backend systems, designing databases, and exploring new technologies through hands-on projects.
 
 ---
 
@@ -38,7 +38,6 @@ I enjoy building both frontend and backend systems, working with databases, and 
 ### ⚙️ Tools & Platforms  
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)  
-![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=fff)  
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?logo=visualstudio&logoColor=fff)  
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?logo=visualstudiocode&logoColor=fff)  
 
@@ -47,20 +46,20 @@ I enjoy building both frontend and backend systems, working with databases, and 
 ## 🌟 Featured Projects  
 
 ### 🍴 [Recipes Website](https://github.com/GiliFinkelstein/Recipes-Website.git)
-A full-stack recipe management application using **React** and **Node.js**, featuring dynamic content and responsive design.  
+A full-stack recipe management app using **React** and **Node.js**, featuring dynamic content, responsive design, and smooth animations.
 
 ### 🛍️ [Perfume Manager](https://github.com/GiliFinkelstein/PerfumeManager.git)
-An e-commerce system for managing products and sales built with **.NET Core**, implementing modular architecture and clean code principles.  
+E-commerce system for managing products and sales built with **.NET Core**, following modular architecture and clean code principles.
 
 ### ⚡ [Code Network](https://github.com/GiliFinkelstein/CodeNetwork.git)
-A modern web app built with **React** and **Node.js**, showcasing API integration, real-time data, and robust frontend-backend structure.  
+Modern web app built with **React** and **Node.js**, showcasing real-time data, API integration, and robust frontend-backend structure.
 
 ---
 
-## 🌐 Connect With Me  
-🔗 [LinkedIn](https://www.linkedin.com/in/tehila-perelman/)  
+## 🌐 Where to Find Me  
 📍 Israel  
+💌 [Email Me](mailto:9154919@gmail.com)  
 
 ---
 
-⭐ *“Code is like art — it’s not just about making it work, but making it beautiful.”*
+⭐ *“Code is like art — not just making it work, but making it beautiful.”*
