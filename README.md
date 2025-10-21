@@ -11,31 +11,45 @@ I love building both frontend and backend systems, designing databases, and expl
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Tech Stack & Skills  
 
-### 💬 Languages  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)  
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)  
-![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=fff)  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)  
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=fff)  
+### 💬 Languages
+- **JavaScript** ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)  
+  ![JS Skill](https://progress-bar.dev/95/?title=JS)  
+- **TypeScript** ![TS](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)  
+  ![TS Skill](https://progress-bar.dev/85/?title=TS)  
+- **C#** ![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=fff)  
+  ![C# Skill](https://progress-bar.dev/80/?title=C%23)  
+- **Python** ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)  
+  ![Python Skill](https://progress-bar.dev/75/?title=Python)  
+- **Java** ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=fff)  
+  ![Java Skill](https://progress-bar.dev/70/?title=Java)  
 
-### ⚛️ Frontend  
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000)  
-![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=fff)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)
+### ⚛️ Frontend
+- **React** ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000)  
+  ![React Skill](https://progress-bar.dev/90/?title=React)  
+- **Angular** ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=fff)  
+  ![Angular Skill](https://progress-bar.dev/70/?title=Angular)  
+- **Bootstrap** ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)  
+  ![Bootstrap Skill](https://progress-bar.dev/80/?title=Bootstrap)  
 
-### 🧠 Backend  
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=fff)  
-![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?logo=dotnet&logoColor=fff)  
-![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=fff)
+### 🧠 Backend
+- **Node.js** ![Node](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=fff)  
+  ![Node Skill](https://progress-bar.dev/85/?title=Node.js)  
+- **.NET Core** ![Dotnet](https://img.shields.io/badge/.NET_Core-512BD4?logo=dotnet&logoColor=fff)  
+  ![Dotnet Skill](https://progress-bar.dev/80/?title=.NET)  
+- **Express.js** ![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=fff)  
+  ![Express Skill](https://progress-bar.dev/80/?title=Express)  
 
-### 🗃️ Databases  
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=sql&logoColor=fff)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff)  
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=000)
+### 🗃️ Databases
+- **SQL** ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=sql&logoColor=fff)  
+  ![SQL Skill](https://progress-bar.dev/85/?title=SQL)  
+- **MongoDB** ![Mongo](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff)  
+  ![Mongo Skill](https://progress-bar.dev/75/?title=MongoDB)  
+- **Supabase** ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=000)  
+  ![Supabase Skill](https://progress-bar.dev/70/?title=Supabase)  
 
-### ⚙️ Tools & Platforms  
+### ⚙️ Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)  
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?logo=visualstudio&logoColor=fff)  
