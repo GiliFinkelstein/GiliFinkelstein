@@ -7,7 +7,7 @@ Building useful software with clarity and purpose
 
 ## 🚀 About Me  
 I'm a Full Stack Developer passionate about creating scalable, clean, and efficient solutions.  
-I love building both frontend and backend systems, designing databases, and exploring new technologies through hands-on projects.
+I enjoy building both frontend and backend systems, designing databases, and exploring new technologies through hands-on projects.
 
 ---
 
@@ -16,6 +16,7 @@ I love building both frontend and backend systems, designing databases, and expl
 ### 💬 Languages
 - **JavaScript** ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)  
   ![JS Skill](https://progress-bar.dev/95/?title=JS)  
+  ![Animated](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)  
 - **TypeScript** ![TS](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)  
   ![TS Skill](https://progress-bar.dev/85/?title=TS)  
 - **C#** ![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=fff)  
@@ -28,6 +29,7 @@ I love building both frontend and backend systems, designing databases, and expl
 ### ⚛️ Frontend
 - **React** ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000)  
   ![React Skill](https://progress-bar.dev/90/?title=React)  
+  ![Animated](https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif)  
 - **Angular** ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=fff)  
   ![Angular Skill](https://progress-bar.dev/70/?title=Angular)  
 - **Bootstrap** ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)  
@@ -36,6 +38,7 @@ I love building both frontend and backend systems, designing databases, and expl
 ### 🧠 Backend
 - **Node.js** ![Node](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=fff)  
   ![Node Skill](https://progress-bar.dev/85/?title=Node.js)  
+  ![Animated](https://media.giphy.com/media/3oEjHP8ELRNNlnlLGM/giphy.gif)  
 - **.NET Core** ![Dotnet](https://img.shields.io/badge/.NET_Core-512BD4?logo=dotnet&logoColor=fff)  
   ![Dotnet Skill](https://progress-bar.dev/80/?title=.NET)  
 - **Express.js** ![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=fff)  
@@ -60,13 +63,16 @@ I love building both frontend and backend systems, designing databases, and expl
 ## 🌟 Featured Projects  
 
 ### 🍴 [Recipes Website](https://github.com/GiliFinkelstein/Recipes-Website.git)
-A full-stack recipe management app using **React** and **Node.js**, featuring dynamic content, responsive design, and smooth animations.
+A full-stack recipe management app using **React** and **Node.js**, featuring dynamic content, responsive design, and smooth animations.  
+![Project GIF](https://media.giphy.com/media/xT0BKmtQGLbumr5RCM/giphy.gif)
 
 ### 🛍️ [Perfume Manager](https://github.com/GiliFinkelstein/PerfumeManager.git)
-E-commerce system for managing products and sales built with **.NET Core**, following modular architecture and clean code principles.
+E-commerce system for managing products and sales built with **.NET Core**, following modular architecture and clean code principles.  
+![Project GIF](https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif)
 
 ### ⚡ [Code Network](https://github.com/GiliFinkelstein/CodeNetwork.git)
-Modern web app built with **React** and **Node.js**, showcasing real-time data, API integration, and robust frontend-backend structure.
+Modern web app built with **React** and **Node.js**, showcasing real-time data, API integration, and robust frontend-backend structure.  
+![Project GIF](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
 
 ---
 
